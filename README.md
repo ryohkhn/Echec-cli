@@ -12,7 +12,7 @@ Compiler et éxécuter le main présent dans le fichier Echec.java
 * Dans une partie d'échecs les blancs jouent le premier coup puis les joueurs jouent à tour de rôle en déplaçant à chaque fois une de leurs pièces.
 * Chaque pièce se déplace de façon spécifique, il n'est pas possible de jouer sur une case occupée par une pièce de son propre camp.
 * Lorsqu'une pièce adverse se trouve sur la case d'arrivée de la pièce jouée, elle est capturée et retirée de l'échiquier.
-* Pour finir une partie, il faut manger le roi adverse.
+* Pour terminer une partie, il faut prendre le roi adverse.
 * Dans cette version d'échecs il n'est pas possible de roquer, de faire la prise en passant ou de faire la promotion d'un pion.
 
 **Déplacement des pièces :**
